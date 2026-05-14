@@ -58,15 +58,14 @@ Minecraftサーバーの自動起動・停止を行うシェルスクリプト�
 
 詳細については、以下のリファレンスサイトを参照してください。
 
+**Minecraft サーバー管理スクリプト参考資料**
+- [Minecraft Server Auto Restart](https://jyn.jp/minecraft-server-auto-restart/)
+- [翻訳版（Google翻訳）](https://translate.google.com/translate?sl=ja&tl=en&u=https://jyn.jp/minecraft-server-auto-restart/)
+
 ## 設定
 
 各スクリプトは、使用環境に応じてカスタマイズが必要な場合があります。スクリプトファイルの先頭や設定セクションに記載されたコメントを参照し、必要なパスやパラメータを変更してください。
 
-## 参考資料
-
-**Minecraft サーバー管理スクリプト参考資料**
-- [Minecraft Server Auto Restart](https://jyn.jp/minecraft-server-auto-restart/)
-- [翻訳版（Google翻訳）](https://translate.google.com/translate?sl=ja&tl=en&u=https://jyn.jp/minecraft-server-auto-restart/)
 
 # English
 
@@ -127,12 +126,10 @@ Shell scripts for automated start and stop operations of a Minecraft server. Ena
 
 Please refer to the reference site below for more details.
 
-## Configuration
-
-Some scripts may require customization depending on your environment. Please refer to the comments at the beginning of the script files or in the configuration sections and modify necessary paths and parameters as needed.
-
-## References
-
 **Minecraft Server Management Script References**
 - [Minecraft Server Auto Restart](https://jyn.jp/minecraft-server-auto-restart/)
 - [Translated Version (Google Translate)](https://translate.google.com/translate?sl=ja&tl=en&u=https://jyn.jp/minecraft-server-auto-restart/)
+
+## Configuration
+
+Some scripts may require customization depending on your environment. Please refer to the comments at the beginning of the script files or in the configuration sections and modify necessary paths and parameters as needed.
